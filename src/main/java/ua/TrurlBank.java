@@ -1,3 +1,5 @@
+package ua;
+
 public class TrurlBank {
     public int sumQuads(int n) {
         int result = 0;

@@ -1,3 +1,5 @@
+package ua;
+
 public class Tanker {
     private String serialNumber;
 

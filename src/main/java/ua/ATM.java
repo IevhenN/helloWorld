@@ -1,3 +1,5 @@
+package ua;
+
 public class ATM {
 
     public int countBanknotes(int sum){

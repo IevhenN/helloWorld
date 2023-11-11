@@ -1,3 +1,5 @@
+package ua;
+
 public class SpaceshipCalc {
 
     public final int calculateAirBalloons(int passengerCount){

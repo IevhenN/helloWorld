@@ -1,3 +1,5 @@
+package ua;
+
 public class TriangleDrawer {
     public String drawTriangle(int side){
         String result = "";

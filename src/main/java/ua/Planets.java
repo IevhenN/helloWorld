@@ -1,3 +1,5 @@
+package ua;
+
 public class Planets {
     public static final String MERCURY="Mercury";
     public static final String VENUS ="Venus";

@@ -1,3 +1,5 @@
+package ua;
+
 public class ArlanHelper {
     //Test output
     public String drawQuad(int n){

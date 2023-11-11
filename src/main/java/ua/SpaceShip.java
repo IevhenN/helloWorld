@@ -1,3 +1,5 @@
+package ua;
+
 public class SpaceShip {
     private String name;
     private String serialNumber;

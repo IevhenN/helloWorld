@@ -1,3 +1,5 @@
+package ua;
+
 public class SpaceUtils {
     protected final static int PLANET_COUNT=8;
     final static String HOME_PLANET_NAME="Earth";

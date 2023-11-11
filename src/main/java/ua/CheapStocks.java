@@ -1,3 +1,6 @@
+package ua;
+
+import java.util.Objects;
 public class CheapStocks {
     public String getCheapStocks(String[] stocks){
 
